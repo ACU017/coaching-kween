@@ -12,11 +12,15 @@ import SupportIcon from './icons/IconSupport.vue'
     <template #icon>
       <DocumentationIcon />
     </template>
-    <template #heading>Documentation</template>
-
-    Vue’s
-    <a href="https://vuejs.org/" target="_blank" rel="noopener">official documentation</a>
-    provides you with all information you need to get started.
+    <template #heading>Book your sesh with me </template>
+    <a
+      href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2KHBvpsNrm7H1lAF-3_wBZwFtBzHPXSFHtHvyA1RI9d55sj5QxvCCyf-msOjfXlB4ztsPS-K8R"
+      target="_blank"
+      rel="noopener"
+      >Availabitites</a
+    >
+    is a hyper link you can book me directly. Introductory sessions are usually 15mn and coaching
+    vary from 30 to 45 min.
   </WelcomeItem>
 
   <WelcomeItem>
@@ -25,20 +29,9 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Tooling</template>
 
-    This project is served and bundled with
-    <a href="https://vitejs.dev/guide/features.html" target="_blank" rel="noopener">Vite</a>. The
-    recommended IDE setup is
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noopener">VSCode</a> +
-    <a href="https://github.com/johnsoncodehk/volar" target="_blank" rel="noopener">Volar</a>. If
-    you need to test your components and web pages, check out
-    <a href="https://www.cypress.io/" target="_blank" rel="noopener">Cypress</a> and
-    <a href="https://on.cypress.io/component" target="_blank" rel="noopener"
-      >Cypress Component Testing</a
-    >.
-
+    This part is still under construction. Here you'll be able to browse through the tools that I
+    use for my sessions.
     <br />
-
-    More instructions are available in <code>README.md</code>.
   </WelcomeItem>
 
   <WelcomeItem>
