@@ -48,7 +48,11 @@ import SupportIcon from './icons/IconSupport.vue'
     I celebrated differences therefore it's important to be able to cover a broad span of
     individuals.<br />
     This means the content we will discuss will be tailored to your situation and context. Check
-    more in the About section.
+    more in the About section. You can leave your feedback here :
+
+    <a href="https://actn0ul5j8x.typeform.com/to/ERD0fZH6" target="blank" rel="noopener"
+      >Feedback form</a
+    >
   </WelcomeItem>
 
   <WelcomeItem>
