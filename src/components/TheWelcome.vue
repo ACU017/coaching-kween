@@ -32,6 +32,10 @@ import SupportIcon from './icons/IconSupport.vue'
     This part is still under construction. Here you'll be able to browse through the tools that I
     use for my sessions.
     <br />
+    The goal is to empower you by deconstructing knowledge. My goal is to boraden knowledge and
+    organise it in a way that make sense to you. <br />
+    You'll find everything from Neuropsychlogy to mindfulness and stress management. Links to state
+    funded help like legal advise and imigration policies. <br />
   </WelcomeItem>
 
   <WelcomeItem>
@@ -40,14 +44,11 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Ecosystem</template>
 
-    Get official tools and libraries for your project:
-    <a href="https://pinia.vuejs.org/" target="_blank" rel="noopener">Pinia</a>,
-    <a href="https://router.vuejs.org/" target="_blank" rel="noopener">Vue Router</a>,
-    <a href="https://test-utils.vuejs.org/" target="_blank" rel="noopener">Vue Test Utils</a>, and
-    <a href="https://github.com/vuejs/devtools" target="_blank" rel="noopener">Vue Dev Tools</a>. If
-    you need more resources, we suggest paying
-    <a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">Awesome Vue</a>
-    a visit.
+    The idea is to create a safe space for everyone. <br />
+    I celebrated differences therefore it's important to be able to cover a broad span of
+    individuals.<br />
+    This means the content we will discuss will be tailored to your situation and context. Check
+    more in the About section.
   </WelcomeItem>
 
   <WelcomeItem>
@@ -55,27 +56,21 @@ import SupportIcon from './icons/IconSupport.vue'
       <CommunityIcon />
     </template>
     <template #heading>Community</template>
-
-    Got stuck? Ask your question on
-    <a href="https://chat.vuejs.org" target="_blank" rel="noopener">Vue Land</a>, our official
-    Discord server, or
-    <a href="https://stackoverflow.com/questions/tagged/vue.js" target="_blank" rel="noopener"
-      >StackOverflow</a
-    >. You should also subscribe to
-    <a href="https://news.vuejs.org" target="_blank" rel="noopener">our mailing list</a> and follow
-    the official
-    <a href="https://twitter.com/vuejs" target="_blank" rel="noopener">@vuejs</a>
-    twitter account for latest news in the Vue world.
+    A complete list of safe places for minorities and sexual dissidences in Barcelona.
+    <br />
   </WelcomeItem>
 
   <WelcomeItem>
     <template #icon>
       <SupportIcon />
     </template>
-    <template #heading>Support Vue</template>
+    <template #heading>Support me </template>
 
-    As an independent project, Vue relies on community backing for its sustainability. You can help
-    us by
-    <a href="https://vuejs.org/sponsor/" target="_blank" rel="noopener">becoming a sponsor</a>.
+    You can buy me a coffee here
+    <a href="https://www.paypal.com/paypalme/AndreasertoC" target="_blank" rel="noopener"
+      >through my Paypal. </a
+    >.
+    <br />
+    Just remeber is my dead-name for governement reasons.
   </WelcomeItem>
 </template>
